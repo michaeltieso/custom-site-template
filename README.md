@@ -9,7 +9,7 @@ This template will allow you to create a WooCommerce dev environment using only 
 ### The minimum required configuration:
 
 ```
-my-site:
+woocommerce:
   repo: https://github.com/michaeltieso/woo-vvv-template
   hosts:
     - woocommerce.test
