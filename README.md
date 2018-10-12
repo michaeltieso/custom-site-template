@@ -23,3 +23,9 @@ woocommerce:
 | DB Name    | woocommerce     |
 | Site Type  | Single      |
 | WP Version | Latest      |
+
+# Credentials
+
+**WordPress**
+User: `admin`
+Password: `password`
