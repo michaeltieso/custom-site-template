@@ -10,7 +10,7 @@ This template will allow you to create a WooCommerce dev environment using only 
 
 ```
 my-site:
-  repo: https://github.com/michaeltieso/custom-site-template
+  repo: https://github.com/michaeltieso/woo-vvv-template
   hosts:
     - woocommerce.test
   custom:
